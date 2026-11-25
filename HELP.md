@@ -240,9 +240,13 @@ d = Deck(Theme.calm("sage"))                        # 旧名，仍可用
 |---|---|---|
 | 运行依赖 | python-pptx（MIT）· **PyMuPDF（AGPL 双许可，注意）** · Pillow（MIT-CMU）· matplotlib · lxml | 由使用者自行安装 |
 | 外部程序 | LibreOffice（MPL-2.0） | 仅命令行调用，不打包 |
-| 环境内先行技能 | `pptx` / `docx` / `pdf` / `xlsx` / `theme-factory` 等（© 2025 Anthropic PBC） | **未复制任何代码或文本** |
+| 环境内先行技能 | `pptx` / `docx` / `pdf` / `xlsx` / `theme-factory` 等（© 2025 Anthropic PBC） | **未复制任何代码或文本**；概念对应逐项列在 `NOTICE.md` §6 |
 | 学校模板 | `课堂pre01/template.pptx` | 不分发（标为「待更新」） |
 | 字体 | 等线 / 微软雅黑 / Noto Sans CJK | 只按名称引用，不打包 |
+
+本技能把与其它技能的关系分成四类写清：**包含 · 引用 · 参考 · 借鉴**。
+其中「包含」与「引用」均为零；「参考」只写我能确认读过的；「借鉴」逐项给出对应点，
+并明确标注**概念对应不等于来源**（`NOTICE.md` §2、§5、§6）。
 
 「未复制」不是一句声明，可以自己验：
 

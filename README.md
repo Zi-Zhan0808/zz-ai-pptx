@@ -1,4 +1,4 @@
-# zz-ai-pptx
+﻿# zz-ai-pptx
 
 一套给 **DeepSeek Harness (DSH)** 用的技能：把材料做成**可编辑、可核对**的 `.pptx`。
 
@@ -70,6 +70,7 @@ git clone https://github.com/Zi-Zhan0808/zz-ai-pptx.git ~/.dsh/skills/zz-ai-pptx
 ---
 
 以下为技能自身的技术说明。
+
 
 Source-grounded deck construction: reference material in, a native editable
 `.pptx` out, with every claim traceable to a page and every slide's typography
