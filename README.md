@@ -1,5 +1,64 @@
 # zz-ai-pptx
 
+一套给 **DeepSeek Harness (DSH)** 用的技能：把材料做成**可编辑、可核对**的 `.pptx`。
+
+## 安装
+
+对 DSH 说一句：
+
+```
+安装 skill：zz-ai-pptx
+```
+
+或手动：
+
+```bash
+git clone https://github.com/Zi-Zhan0808/zz-ai-pptx.git ~/.dsh/skills/zz-ai-pptx
+# Windows: %USERPROFILE%\.dsh\skills\zz-ai-pptx
+```
+
+装好之后对 DSH 说「help」，会拿到完整的能力清单。
+
+## 四档能力（档位决定花多少钱）
+
+| 档 | 能做什么 | 明确不做 |
+|---|---|---|
+| **T1** 基础生成 | 封面 + 标题/要点页；一种字体、一套现成配色；纯文本 | 不选版式、不推配色、不画图、不跑审计 |
+| **T2** 固定版式 | T1 + 流程 / 表格 / 图+文 / 对比 四类固定版式；可用你的模板 | 不按内容形态造版式 |
+| **T3** 内容驱动 | T2 + 按内容形态选或造版式；四道质检门跑一遍 | 不自己画示意图、不联网 |
+| **T4** 自制示意图 | T3 + 用形状画示意图（作用范围、距离、分层、矩阵）并做几何断言 | 只在内容必须画时才画 |
+
+**低档不具备高档的能力**：说 T2 就不会按内容造版式，即使那样更好看。
+
+## 三档自由度（能说多少材料外的话）
+
+| 档 | 含义 |
+|---|---|
+| **L1** 严格贴合材料 | 材料里没有的数字、结论、文献一律不写 |
+| **L2** 自主创作文字（默认） | 可写过渡与判断；数字与文献仍须可核实 |
+| **L3** 联网自由发挥 | 可检索补充，但每条外部主张都要有 DOI / PMID |
+
+**动手前会先报预算**：档位、自由度、页数、预计轮次、是否联网、几个省钱选项，
+等你点头再开工。
+
+## 仓库内容
+
+| 内容 | 状态 |
+|---|---|
+| `SKILL.md` · `HELP.md` · `LICENSE` | ✅ 有 |
+| `scripts/`（18 个：构建、审计、质检） | ✅ 有 |
+| `references/`（authoring / template / prose / workflows / pitfalls） | ✅ 有 |
+| `assets/example_outline.md` | ✅ 有 |
+| `assets/templates/课堂pre01/` 的 profile 与提示词 | ✅ 有 |
+| `assets/templates/课堂pre01/template.pptx`（4.2 MB 学校模板） | ⏳ **待更新**（授权原因不公开） |
+
+内置模板的启用方式：把任意 `.pptx` 放进 `assets/templates/课堂pre01/` 并命名
+`template.pptx`，或直接在模板模式（B2）下读你自己的模板。
+
+---
+
+以下为技能自身的技术说明。
+
 Source-grounded deck construction: reference material in, a native editable
 `.pptx` out, with every claim traceable to a page and every slide's typography
 verified numerically rather than eyeballed.

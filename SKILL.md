@@ -1,7 +1,7 @@
 ---
 name: zz-ai-pptx
 description: "Use this skill whenever a presentation must be built from source material — papers, PDFs, reports, notes, data — and delivered as a native, editable .pptx. Covers academic decks (组会汇报, 论文精讲, 课程, 开题/答辩, 综述), research and technical briefings, and any deck where claims must be traceable to a citable page. Trigger on: 做PPT, 做一个演示文稿, 学术汇报, 组会, 论文讲解, 开题答辩, 综述汇报, journal club, slide deck, presentation, lecture slides, seminar talk, or when the user supplies PDFs/DOIs and asks for slides. Also use when auditing or fixing an existing deck for text overflow, citation consistency, or Chinese typography."
-license: Proprietary. Bundled scripts are original work; no third-party slide template is redistributed.
+license: MIT. Bundled scripts are original work; no third-party slide template is redistributed (see the 待更新 note on assets/templates).
 ---
 
 # zz-ai-pptx — source-grounded deck construction
@@ -526,5 +526,6 @@ references/pitfalls.md   defects that already cost time, each with its check
 references/prose.md       de-slopging with academic-specific guardrails
 references/workflows.md   worked patterns for 组会 / 论文精讲 / 综述 / 答辩
 assets/example_outline.md a filled-in outline to imitate
-assets/templates/课堂pre01/  built-in template: green/wht classroom deck + prompts
+assets/templates/课堂pre01/  template slot: profile + prompts shipped,
+                          template.pptx itself is 待更新 (not distributed)
 ```

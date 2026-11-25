@@ -53,6 +53,10 @@ d = Deck(Theme.calm("sage"))                        # 旧名，仍可用
 
 用法见 `assets/templates/课堂pre01/README.md`，里面有配色、内容、排版三段提示词。
 
+**状态**：profile 与提示词随仓库分发；`template.pptx` 本身因授权原因**不公开**
+（公开仓库里标为「待更新」）。要启用这个内置模板，把任意 `.pptx` 放进
+`assets/templates/课堂pre01/` 并命名为 `template.pptx`，或直接改用模板模式（B2）。
+
 ## 4. 用途类型（决定结构，不是配色）
 
 | 用途 | 默认结构 | 建议页数 |
