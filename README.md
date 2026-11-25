@@ -65,7 +65,7 @@ git clone https://github.com/Zi-Zhan0808/zz-ai-pptx.git ~/.dsh/skills/zz-ai-pptx
   `python scripts/provenance_check.py --against <技能目录>`
 - 学校模板不分发
 
-逐项说明见 [`NOTICE.md`](NOTICE.md)。
+与环境中其它技能的关系按 **包含 · 引用 · 参考 · 借鉴** 四类逐项写在 [`NOTICE.md`](NOTICE.md)：前两类为零（可逐行核验），「参考」只列可确认读过的，「借鉴」逐个给出对应点并注明**概念对应 ≠ 来源**。
 
 ---
 
