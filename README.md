@@ -58,6 +58,10 @@ git clone https://github.com/Zi-Zhan0808/zz-ai-pptx.git ~/.dsh/skills/zz-ai-pptx
 ## 第三方与出处
 
 - 本仓库代码原创，**MIT** 许可
+- **需求来源**：使用者提供的一份《学术 PPT 创作 Agent 执行手册（DSH · 原生 PPTX 版）》，
+  本技能的流程与门禁由它落成。手册 §1 另列了 12 个可选技能（`zhuoyu-ppt`、
+  `notebook-studio`、`paper-slides`、`ppt-studio`、`humanizer-zh` 等），
+  **本机均不存在**，因此既未复制、也无法比对——只按手册说法记录定位
 - 依赖：python-pptx（MIT）、**PyMuPDF（AGPL 或商业双许可，请自行确认适用性）**、
   Pillow（MIT-CMU）、matplotlib、lxml；LibreOffice 以外部命令形式调用（MPL-2.0）
 - 环境中由 Anthropic 提供的 `pptx` / `docx` / `pdf` / `xlsx` 等技能：

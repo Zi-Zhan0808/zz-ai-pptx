@@ -240,7 +240,9 @@ d = Deck(Theme.calm("sage"))                        # 旧名，仍可用
 |---|---|---|
 | 运行依赖 | python-pptx（MIT）· **PyMuPDF（AGPL 双许可，注意）** · Pillow（MIT-CMU）· matplotlib · lxml | 由使用者自行安装 |
 | 外部程序 | LibreOffice（MPL-2.0） | 仅命令行调用，不打包 |
-| 环境内先行技能 | `pptx` / `docx` / `pdf` / `xlsx` / `theme-factory` 等（© 2025 Anthropic PBC） | **未复制任何代码或文本**；概念对应逐项列在 `NOTICE.md` §6 |
+| **需求来源** | 使用者提供的《学术 PPT 创作 Agent 执行手册（DSH · 原生 PPTX 版）》 | 本技能的流程与门禁由它落成；逐条对应见 `NOTICE.md` §5.1 |
+| 手册 §1 列出的 12 个技能 | `zhuoyu-ppt` / `notebook-studio` / `paper-slides` / `docflow` / `latex2office` / `ppt-studio` 等 | **本机不存在**，无法比对；按手册说法记录在 `NOTICE.md` §5.2 |
+| 环境内先行技能 | `pptx` / `docx` / `pdf` / `xlsx` / `theme-factory` 等（© 2025 Anthropic PBC） | **未复制任何代码或文本**；概念对应见 `NOTICE.md` §6 |
 | 学校模板 | `课堂pre01/template.pptx` | 不分发（标为「待更新」） |
 | 字体 | 等线 / 微软雅黑 / Noto Sans CJK | 只按名称引用，不打包 |
 
