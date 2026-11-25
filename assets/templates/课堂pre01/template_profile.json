@@ -1,0 +1,7000 @@
+{
+ "source": "template.pptx",
+ "canvas": {
+  "w": 13.333,
+  "h": 7.5,
+  "ratio": 1.778
+ },
+ "theme": {
+  "colors": {
+   "dk2": "455F51",
+   "lt2": "E2DFCC",
+   "accent1": "006334",
+   "accent2": "20884A",
+   "accent3": "4B9B64",
+   "accent4": "44C1A3",
+   "accent5": "4EB3CF",
+   "accent6": "51C3F9",
+   "hlink": "EE7B08",
+   "folHlink": "977B2D",
+   "dk1": "000000",
+   "lt1": "FFFFFF"
+  },
+  "fonts": {
+   "majorFont": {
+    "latin": "等线 Light",
+    "ea": ""
+   },
+   "minorFont": {
+    "latin": "等线",
+    "ea": ""
+   }
+  }
+ },
+ "layouts": [
+  {
+   "index": 0,
+   "name": "2_标题幻灯片",
+   "title_box": [
+    1.325,
+    0.383,
+    10.58,
+    0.725
+   ],
+   "content_top": 1.31,
+   "chrome": [
+    {
+     "name": "矩形 1",
+     "id": 2,
+     "kind": "AUTO_SHAPE",
+     "ph": null,
+     "box": [
+      0.917,
+      0.374,
+      12.062,
+      0.725
+     ]
+    },
+    {
+     "name": "椭圆 6",
+     "id": 7,
+     "kind": "AUTO_SHAPE",
+     "ph": null,
+     "box": [
+      0.377,
+      0.323,
+      0.827,
+      0.827
+     ]
+    },
+    {
+     "name": "椭圆 2",
+     "id": 3,
+     "kind": "AUTO_SHAPE",
+     "ph": null,
+     "box": [
+      0.377,
+      0.323,
+      0.827,
+      0.827
+     ]
+    }
+   ],
+   "slide_count": 18
+  },
+  {
+   "index": 1,
+   "name": "标题幻灯片",
+   "title_box": [
+    1.667,
+    1.227,
+    10.0,
+    2.611
+   ],
+   "content_top": 4.0,
+   "chrome": [],
+   "slide_count": 3
+  },
+  {
+   "index": 2,
+   "name": "标题和内容",
+   "title_box": [
+    0.917,
+    0.399,
+    11.5,
+    1.45
+   ],
+   "content_top": 2.01,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 3,
+   "name": "节标题",
+   "title_box": [
+    0.91,
+    1.87,
+    11.5,
+    3.12
+   ],
+   "content_top": 5.15,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 4,
+   "name": "两栏内容",
+   "title_box": [
+    0.917,
+    0.399,
+    11.5,
+    1.45
+   ],
+   "content_top": 2.01,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 5,
+   "name": "比较",
+   "title_box": [
+    0.918,
+    0.399,
+    11.5,
+    1.45
+   ],
+   "content_top": 2.01,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 6,
+   "name": "仅标题",
+   "title_box": [
+    0.917,
+    0.399,
+    11.5,
+    1.45
+   ],
+   "content_top": 2.01,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 7,
+   "name": "空白",
+   "title_box": null,
+   "content_top": 0.9,
+   "chrome": [],
+   "slide_count": 15
+  },
+  {
+   "index": 8,
+   "name": "内容与标题",
+   "title_box": [
+    0.918,
+    0.5,
+    4.3,
+    1.75
+   ],
+   "content_top": 2.41,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 9,
+   "name": "图片与标题",
+   "title_box": [
+    0.918,
+    0.5,
+    4.3,
+    1.75
+   ],
+   "content_top": 2.41,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 10,
+   "name": "标题和竖排文字",
+   "title_box": [
+    0.917,
+    0.399,
+    11.5,
+    1.45
+   ],
+   "content_top": 2.01,
+   "chrome": [],
+   "slide_count": 0
+  },
+  {
+   "index": 11,
+   "name": "竖排标题与文本",
+   "title_box": [
+    9.542,
+    0.399,
+    2.875,
+    6.356
+   ],
+   "content_top": 6.92,
+   "chrome": [],
+   "slide_count": 0
+  }
+ ],
+ "slides": [
+  {
+   "n": 1,
+   "layout": "空白",
+   "shape_count": 5,
+   "pictures": 0,
+   "title_guess": "Attention-Guided Few-Shot Learning for Fine-Grained Image Classificati",
+   "text_chars": 91
+  },
+  {
+   "n": 2,
+   "layout": "空白",
+   "shape_count": 4,
+   "pictures": 0,
+   "title_guess": "Attention-Guided Few-Shot Learning for Fine-Grained Image Classificati",
+   "text_chars": 91
+  },
+  {
+   "n": 3,
+   "layout": "空白",
+   "shape_count": 3,
+   "pictures": 0,
+   "title_guess": "",
+   "text_chars": 0
+  },
+  {
+   "n": 4,
+   "layout": "空白",
+   "shape_count": 9,
+   "pictures": 0,
+   "title_guess": "Attention-Guided Few-Shot Learning for Fine-Grained Image Classificati",
+   "text_chars": 144
+  },
+  {
+   "n": 5,
+   "layout": "空白",
+   "shape_count": 6,
+   "pictures": 0,
+   "title_guess": "Attention-Guided Few-Shot Learning for Fine-Grained Image Classificati",
+   "text_chars": 91
+  },
+  {
+   "n": 6,
+   "layout": "空白",
+   "shape_count": 6,
+   "pictures": 0,
+   "title_guess": "Attention-Guided Few-Shot Learning for Fine-Grained Image Classificati",
+   "text_chars": 91
+  },
+  {
+   "n": 7,
+   "layout": "空白",
+   "shape_count": 20,
+   "pictures": 0,
+   "title_guess": "创新点与启发",
+   "text_chars": 41
+  },
+  {
+   "n": 8,
+   "layout": "空白",
+   "shape_count": 22,
+   "pictures": 1,
+   "title_guess": "Contents",
+   "text_chars": 49
+  },
+  {
+   "n": 9,
+   "layout": "空白",
+   "shape_count": 23,
+   "pictures": 0,
+   "title_guess": "Contents",
+   "text_chars": 41
+  },
+  {
+   "n": 10,
+   "layout": "空白",
+   "shape_count": 23,
+   "pictures": 0,
+   "title_guess": "Contents",
+   "text_chars": 41
+  },
+  {
+   "n": 11,
+   "layout": "2_标题幻灯片",
+   "shape_count": 18,
+   "pictures": 1,
+   "title_guess": "研究内容：探究 mRNA 疫苗接种后，SARS-CoV-2 刺突蛋白在出血性卒中患者脑动脉中的表达及其潜在意义 关键词：SARS-CoV-2",
+   "text_chars": 241
+  },
+  {
+   "n": 12,
+   "layout": "2_标题幻灯片",
+   "shape_count": 18,
+   "pictures": 2,
+   "title_guess": "Journal of Clinical Neuroscience",
+   "text_chars": 68
+  },
+  {
+   "n": 13,
+   "layout": "2_标题幻灯片",
+   "shape_count": 14,
+   "pictures": 0,
+   "title_guess": "mRNA 疫苗（如 BNT162b2、mRNA-1273）在 COVID-19 疫情中快速应用，短期安全性和有效性已通过临床试验证实 疫情早",
+   "text_chars": 376
+  },
+  {
+   "n": 14,
+   "layout": "2_标题幻灯片",
+   "shape_count": 14,
+   "pictures": 3,
+   "title_guess": "简述研究领域整体发展态势，以电池热管理为例，说明新能源汽车产业发展对电池安全、高效运行需求迫切，带动该领域研究热度",
+   "text_chars": 127
+  },
+  {
+   "n": 15,
+   "layout": "2_标题幻灯片",
+   "shape_count": 19,
+   "pictures": 1,
+   "title_guess": "国内学者在 [某领域] 的研究侧重 [研究方向 1，如本土化理论构建”“政策影响分析”，[学者姓名]（年份）基于 [某理论]",
+   "text_chars": 200
+  },
+  {
+   "n": 16,
+   "layout": "2_标题幻灯片",
+   "shape_count": 21,
+   "pictures": 0,
+   "title_guess": "2023-2024 年 19 例出血性卒中患者（10 例脑内出血、6 例蛛网膜下腔出血等），平均年龄 58.9±18.9 岁，女性 14 例",
+   "text_chars": 374
+  },
+  {
+   "n": 17,
+   "layout": "2_标题幻灯片",
+   "shape_count": 22,
+   "pictures": 0,
+   "title_guess": "检测刺突蛋白（抗 Spike Protein 抗体）和核衣壳蛋白（抗 Nucleocapsid 抗体），明确蛋白表达位置",
+   "text_chars": 257
+  },
+  {
+   "n": 18,
+   "layout": "2_标题幻灯片",
+   "shape_count": 27,
+   "pictures": 0,
+   "title_guess": "检测刺突蛋白（抗 Spike Protein 抗体）和核衣壳蛋白（抗 Nucleocapsid 抗体），明确蛋白表达位置",
+   "text_chars": 350
+  },
+  {
+   "n": 19,
+   "layout": "2_标题幻灯片",
+   "shape_count": 10,
+   "pictures": 2,
+   "title_guess": "调查出血性卒中患者脑组织中 SARS-CoV-2 刺突蛋白的长期存在情况 分析刺突蛋白表达与 mRNA 疫苗接种、SARS-CoV-2 感染",
+   "text_chars": 187
+  },
+  {
+   "n": 20,
+   "layout": "2_标题幻灯片",
+   "shape_count": 17,
+   "pictures": 1,
+   "title_guess": "43.8%（7/16）接种疫苗的患者检测到刺突蛋白，均定位于脑动脉内膜（图C、E） 所有病例核衣壳蛋白均为阴性，排除活动性病毒感染 刺突蛋白",
+   "text_chars": 230
+  },
+  {
+   "n": 21,
+   "layout": "2_标题幻灯片",
+   "shape_count": 11,
+   "pictures": 2,
+   "title_guess": "43.8%（7/16）接种疫苗的患者检测到刺突蛋白，均定位于脑动脉内膜（图 1C、E） 所有病例核衣壳蛋白均为阴性，排除活动性病毒感染 刺突",
+   "text_chars": 232
+  },
+  {
+   "n": 22,
+   "layout": "2_标题幻灯片",
+   "shape_count": 10,
+   "pictures": 2,
+   "title_guess": "炎症细胞浸润：刺突蛋白阳性血管中，观察到 CD4+T 细胞、CD68 + 细胞浸润内膜，CD8 + 细胞浸润外膜，无活动性血管炎证据；阴性病",
+   "text_chars": 178
+  },
+  {
+   "n": 23,
+   "layout": "2_标题幻灯片",
+   "shape_count": 14,
+   "pictures": 2,
+   "title_guess": "3 例刺突蛋白阳性病例（末次接种后 11-17 个月）中，均检测到疫苗来源 mRNA 和 SARS-CoV-2 病毒 RNA，定位于动脉内膜",
+   "text_chars": 160
+  },
+  {
+   "n": 24,
+   "layout": "2_标题幻灯片",
+   "shape_count": 7,
+   "pictures": 2,
+   "title_guess": "结论一：mRNA 疫苗诱导的刺突蛋白可在脑动脉内膜长期表达（最长 17 个月），与出血性卒中患者相关 结论二：刺突蛋白阳性存在显著性别差异（",
+   "text_chars": 145
+  },
+  {
+   "n": 25,
+   "layout": "2_标题幻灯片",
+   "shape_count": 18,
+   "pictures": 4,
+   "title_guess": "mRNA 疫苗诱导的刺突蛋白可在脑动脉内膜长期表达（最长 17 个月），与出血性卒中患者相关",
+   "text_chars": 161
+  },
+  {
+   "n": 26,
+   "layout": "2_标题幻灯片",
+   "shape_count": 18,
+   "pictures": 0,
+   "title_guess": "这里输入创新点一：如 “提出新模型”“发现新规律”这里输入创新点一：如 “提出新模型”“发现新规律”这里输入创新点一：如 “提出新模型”",
+   "text_chars": 220
+  },
+  {
+   "n": 27,
+   "layout": "2_标题幻灯片",
+   "shape_count": 12,
+   "pictures": 2,
+   "title_guess": "免疫组化与原位杂交结合的方法，可用于探究疫苗成分在组织中的长期效应",
+   "text_chars": 79
+  },
+  {
+   "n": 28,
+   "layout": "2_标题幻灯片",
+   "shape_count": 24,
+   "pictures": 5,
+   "title_guess": "需开展大样本、多中心研究验证 mRNA 疫苗长期生物分布（尤其是脂质纳米粒穿透血脑屏障的机制）",
+   "text_chars": 191
+  },
+  {
+   "n": 29,
+   "layout": "空白",
+   "shape_count": 8,
+   "pictures": 0,
+   "title_guess": "Literature Report",
+   "text_chars": 63
+  },
+  {
+   "n": 30,
+   "layout": "空白",
+   "shape_count": 5,
+   "pictures": 0,
+   "title_guess": "敬请各位老师批评指正",
+   "text_chars": 10
+  },
+  {
+   "n": 31,
+   "layout": "空白",
+   "shape_count": 5,
+   "pictures": 0,
+   "title_guess": "敬请各位老师批评指正",
+   "text_chars": 10
+  },
+  {
+   "n": 32,
+   "layout": "空白",
+   "shape_count": 3,
+   "pictures": 0,
+   "title_guess": "敬请各位老师批评指正",
+   "text_chars": 10
+  },
+  {
+   "n": 33,
+   "layout": "空白",
+   "shape_count": 4,
+   "pictures": 0,
+   "title_guess": "敬请各位老师批评指正",
+   "text_chars": 10
+  },
+  {
+   "n": 34,
+   "layout": "标题幻灯片",
+   "shape_count": 93,
+   "pictures": 91,
+   "title_guess": "高质量学术图标",
+   "text_chars": 7
+  },
+  {
+   "n": 35,
+   "layout": "标题幻灯片",
+   "shape_count": 86,
+   "pictures": 84,
+   "title_guess": "高质量学术图标",
+   "text_chars": 7
+  },
+  {
+   "n": 36,
+   "layout": "标题幻灯片",
+   "shape_count": 52,
+   "pictures": 50,
+   "title_guess": "高质量学术图标",
+   "text_chars": 7
+  }
+ ],
+ "pages": {
+  "cover": {
+   "index": 4,
+   "slots": {
+    "dept": "文本框 4",
+    "title_en": "文本框 9",
+    "presenter": "文本框 10",
+    "date": "文本框 11",
+    "group": "文本框 14",
+    "title_cn": "文本框 7",
+    "kicker": "文本框 1"
+   },
+   "widen": {
+    "文本框 10": 2.5,
+    "文本框 14": 2.6,
+    "文本框 11": 4.6
+   },
+   "review": [
+    {
+     "role": "dept",
+     "shape": "文本框 4",
+     "was": "浙江大学计算机学院"
+    },
+    {
+     "role": "title_en",
+     "shape": "文本框 9",
+     "was": "Attention-Guided Few-Shot Learning for F"
+    },
+    {
+     "role": "presenter",
+     "shape": "文本框 10",
+     "was": "汇报人：江小南"
+    },
+    {
+     "role": "date",
+     "shape": "文本框 11",
+     "was": "汇报时间：2025年5月22日"
+    },
+    {
+     "role": "group",
+     "shape": "文本框 14",
+     "was": "XX课题组"
+    },
+    {
+     "role": "title_cn",
+     "shape": "文本框 7",
+     "was": "基于注意力机制的小样本图像分类算法研究"
+    },
+    {
+     "role": "kicker",
+     "shape": "文本框 1",
+     "was": "Literature Report"
+    }
+   ]
+  },
+  "agenda": {
+   "index": 7,
+   "slots": {
+    "heading": "文本框 2"
+   },
+   "widen": {},
+   "review": [
+    {
+     "role": "heading",
+     "shape": "文本框 2",
+     "was": "目录"
+    }
+   ]
+  },
+  "closing": {
+   "index": 29,
+   "slots": {
+    "dept": "文本框 4",
+    "presenter": "文本框 10",
+    "date": "文本框 11",
+    "group": "文本框 14",
+    "kicker": "文本框 1",
+    "text": "文本框 7"
+   },
+   "widen": {
+    "文本框 10": 2.5,
+    "文本框 14": 2.6,
+    "文本框 11": 4.6
+   },
+   "review": [
+    {
+     "role": "dept",
+     "shape": "文本框 4",
+     "was": "浙江大学计算机学院"
+    },
+    {
+     "role": "presenter",
+     "shape": "文本框 10",
+     "was": "汇报人：江小南"
+    },
+    {
+     "role": "date",
+     "shape": "文本框 11",
+     "was": "汇报时间：2025年5月22日"
+    },
+    {
+     "role": "group",
+     "shape": "文本框 14",
+     "was": "XX课题组"
+    },
+    {
+     "role": "kicker",
+     "shape": "文本框 1",
+     "was": "Literature Report"
+    },
+    {
+     "role": "text",
+     "shape": "文本框 7",
+     "was": "敬请各位老师批评指正"
+    }
+   ]
+  }
+ },
+ "badge_color": "FFFFFF",
+ "brand_marks": [
+  {
+   "sha8": "e1c9a54b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    1,
+    33
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.404,
+      5.512,
+      0.394,
+      0.394
+     ]
+    ],
+    [
+     "slide",
+     [
+      3.404,
+      5.512,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "75d6cd3e",
+   "px": [
+    96,
+    96
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    1,
+    33
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.118,
+      5.516,
+      0.394,
+      0.394
+     ]
+    ],
+    [
+     "slide",
+     [
+      6.118,
+      5.516,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "06e0bf60",
+   "px": [
+    96,
+    96
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    6,
+    31
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.518,
+      5.906,
+      0.394,
+      0.394
+     ]
+    ],
+    [
+     "slide",
+     [
+      3.518,
+      5.906,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a89c2516",
+   "px": [
+    96,
+    96
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    6,
+    31
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.583,
+      5.916,
+      0.394,
+      0.394
+     ]
+    ],
+    [
+     "slide",
+     [
+      6.583,
+      5.916,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "dadbd2a7",
+   "px": [
+    1338,
+    673
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    11,
+    12
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.695,
+      1.494,
+      7.675,
+      3.747
+     ]
+    ],
+    [
+     "slide",
+     [
+      4.949,
+      1.572,
+      7.726,
+      3.738
+     ]
+    ]
+   ],
+   "aspect": 1.99
+  },
+  {
+   "sha8": "74d7381b",
+   "px": [
+    1269,
+    529
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    14,
+    25
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.982,
+      3.589,
+      2.845,
+      3.652
+     ]
+    ],
+    [
+     "slide",
+     [
+      9.592,
+      3.589,
+      2.907,
+      3.652
+     ]
+    ],
+    [
+     "slide",
+     [
+      5.305,
+      3.589,
+      2.977,
+      3.652
+     ]
+    ],
+    [
+     "slide",
+     [
+      0.626,
+      1.615,
+      3.269,
+      4.197
+     ]
+    ],
+    [
+     "slide",
+     [
+      4.298,
+      1.664,
+      3.371,
+      4.136
+     ]
+    ]
+   ],
+   "aspect": 2.4
+  },
+  {
+   "sha8": "3fc1f9cf",
+   "px": [
+    1570,
+    798
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    20,
+    21
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.418,
+      1.48,
+      7.581,
+      3.853
+     ]
+    ],
+    [
+     "slide",
+     [
+      7.113,
+      4.381,
+      5.787,
+      2.941
+     ]
+    ]
+   ],
+   "aspect": 1.97
+  },
+  {
+   "sha8": "1d31d4ba",
+   "px": [
+    96,
+    96
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    25,
+    28
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.048,
+      1.687,
+      0.472,
+      0.472
+     ]
+    ],
+    [
+     "slide",
+     [
+      12.048,
+      4.65,
+      0.472,
+      0.472
+     ]
+    ],
+    [
+     "slide",
+     [
+      8.008,
+      3.236,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "0ebe1fe3",
+   "px": [
+    800,
+    800
+   ],
+   "score": 2,
+   "evidence": [
+    "on 2 slides"
+   ],
+   "slides": [
+    27,
+    28
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.332,
+      2.479,
+      0.433,
+      0.433
+     ]
+    ],
+    [
+     "slide",
+     [
+      6.167,
+      3.396,
+      0.963,
+      0.963
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ef13233f",
+   "px": [
+    852,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    19
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.788,
+      1.914,
+      0.294,
+      0.276
+     ]
+    ]
+   ],
+   "aspect": 1.06
+  },
+  {
+   "sha8": "82bc774c",
+   "px": [
+    1564,
+    796
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    21
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.113,
+      1.331,
+      5.779,
+      2.941
+     ]
+    ]
+   ],
+   "aspect": 1.96
+  },
+  {
+   "sha8": "942b6d7a",
+   "px": [
+    1566,
+    786
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    22
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.962,
+      2.106,
+      5.741,
+      2.881
+     ]
+    ]
+   ],
+   "aspect": 1.99
+  },
+  {
+   "sha8": "1df0988e",
+   "px": [
+    1564,
+    794
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    24
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.651,
+      3.636,
+      6.784,
+      3.444
+     ]
+    ]
+   ],
+   "aspect": 1.97
+  },
+  {
+   "sha8": "5a6c0366",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    27
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.327,
+      2.518,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "46db95ab",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    28
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.882,
+      4.89,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "37e2d9d7",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    28
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.892,
+      3.236,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e9aa7f32",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    28
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.943,
+      4.898,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "6f928888",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.813,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "45de845c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.991,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "701df5b2",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.975,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a94f3e63",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.485,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cc001678",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.156,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f8a4160b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.32,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a9798eaa",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.65,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "24b78729",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.662,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "40c6b696",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.332,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "78944de0",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.826,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f011f4c8",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.497,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "76926a0c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.311,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "42e64e0b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.659,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "3a92ef27",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.326,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "137c3ca8",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.82,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "84738285",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.155,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "b03e0f05",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.674,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "aba76d39",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.318,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "083f5153",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.322,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4c6b5114",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.506,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5519bb3f",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.653,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "6cea8339",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.489,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "763a4669",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.485,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9f1cb09d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.816,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "48eb844d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.656,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4f9420d5",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.145,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "dc74568b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.494,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5182018b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.987,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "967609a7",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.157,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "bc38ef34",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.82,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cb713756",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.151,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "786b5d7c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c4657e6d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.813,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "33e1e996",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.311,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "763d21f8",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.975,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "83309b68",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.141,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "520aa68d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.979,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "acdb2cce",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.308,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "d678895a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.663,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "664fba36",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.474,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4b1bcd05",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "38263c7c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.474,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "90ebfeee",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.145,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "6c8913ef",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.809,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ab26fa02",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.308,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "42e73308",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.141,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ],
+    [
+     "slide",
+     [
+      6.875,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "24d2707e",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.482,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "646e4c44",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.48,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "73b78947",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.649,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "0a985658",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.646,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "44580db9",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.989,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e17812ec",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.098,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "46d6c379",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.321,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9fe0172a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.544,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "8fc62f52",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.767,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4374ac1e",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.213,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "22f6e1e0",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.99,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "30f8b78b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.832,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "05a7d4ed",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.436,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5368f5cc",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.314,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "7f2901a9",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.48,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "1ed58fad",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.646,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9f56093b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.344,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a48af6dd",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.509,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "fb7f59c4",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.674,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cc7e636a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.838,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2c447bc5",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.168,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "13deaf93",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.0,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4d4a2004",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.003,
+      1.695,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f689750c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.169,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5829bace",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.337,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "249f1c0b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.651,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a5cc9b42",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.314,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "dbfa649b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.314,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c4163258",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.983,
+      4.562,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "49b4bf5d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.314,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2378a104",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.483,
+      5.53,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "6d7f5701",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.809,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "39fd1e97",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.494,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "8953fe62",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.979,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "639346c9",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.643,
+      3.588,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "d82308ad",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.477,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "0769feed",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.643,
+      2.578,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9a2a154b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.314,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "466048b4",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.537,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "590321a1",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.76,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4ec4187d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.983,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4a08097a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.206,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "86beb55f",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.429,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "93799417",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    34
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.652,
+      6.491,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "956087d2",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.616,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "8fe2cbdc",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.71,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "bd478c0c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.896,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "04730546",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.082,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5dafcc63",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.803,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "35c2d68e",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.989,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f9c3c1ca",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.175,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9a090e71",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.268,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "25056511",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.454,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "56c8c95b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.547,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "81e610f6",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.361,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c6e21447",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a520c290",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.616,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "82d8c158",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.71,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "55141b88",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.896,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "d5b31048",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.989,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2d1e2ff2",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.082,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c29e416d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.803,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cc6b513b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.268,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ae7d70fb",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.361,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c3fa62d3",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.454,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "330cd166",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.547,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "30c3e928",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "07a55d01",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.616,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "184f567f",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.71,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "6e3d66b4",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.803,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "df839a57",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.896,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f0cc1d0b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.989,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4e162151",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.082,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "996dfdf5",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.175,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "0d89ae0f",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.175,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "d10201ca",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.361,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "bb13caf9",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.454,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "08cb305c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.547,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e06b30fc",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "390bfd69",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.268,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "3e3e7366",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.616,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "b22282e4",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.71,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "0cf52dbe",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.989,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "8c38559d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.896,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c257cff7",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.082,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "3d89f094",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.175,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e76c47e0",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.268,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e0508e61",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.361,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5f25dfb3",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.454,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "047ce974",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.803,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "0939b9ed",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.547,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "505a0479",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2164ab9e",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.617,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4725182e",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.711,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cea24dca",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.804,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "843527ac",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.897,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5c133229",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.991,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "96414ba3",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.084,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "7791c3ef",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.177,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "01bbca2c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.271,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "20f0c028",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.364,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9527ecb3",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.458,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9a994d04",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.551,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4c86450a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.644,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2ad67811",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.616,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ee00051d",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.803,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "748fb2b6",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.896,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a5732474",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.989,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ccfaf633",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.082,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4fb38de7",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.175,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2a7f0669",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.71,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "28ff3240",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.361,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "b76a8946",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.268,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "92c16710",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.454,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "abba117f",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.547,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "00aeea37",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.64,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c5eab72a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.43,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "30b93661",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.43,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "1ef0d991",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.43,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2d2750df",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.43,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c2adf722",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.523,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "1a5e64ec",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.43,
+      6.424,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "d924dd7c",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.524,
+      5.437,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2625d497",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.523,
+      4.487,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cd4b0a3b",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.523,
+      3.557,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "131072a4",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.523,
+      2.613,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cede4e1a",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.43,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ac30b7b8",
+   "px": [
+    96,
+    96
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    35
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.523,
+      1.685,
+      0.394,
+      0.394
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "eb9598c0",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.977,
+      5.081,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c906579f",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.555,
+      3.98,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "16611320",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.482,
+      2.81,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "952fc116",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.65,
+      1.792,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2c1eb193",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.901,
+      1.792,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9d973340",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.188,
+      3.961,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f375b96e",
+   "px": [
+    864,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.58,
+      5.14,
+      0.512,
+      0.474
+     ]
+    ]
+   ],
+   "aspect": 1.08
+  },
+  {
+   "sha8": "2815368c",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.26,
+      6.199,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "d7e1a5c0",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.192,
+      1.772,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9b1a16fe",
+   "px": [
+    852,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      4.571,
+      6.238,
+      0.545,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.06
+  },
+  {
+   "sha8": "4977832d",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.989,
+      6.219,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5f6aa1e1",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.678,
+      6.199,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "12de1e05",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.151,
+      1.772,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9a74bded",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.675,
+      5.081,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "5f16f67f",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.278,
+      5.081,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c35d7f4f",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.024,
+      4.0,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "43e9ab9b",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.699,
+      3.961,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a1548b34",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.271,
+      2.849,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "f3f419a2",
+   "px": [
+    836,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.193,
+      5.121,
+      0.535,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.04
+  },
+  {
+   "sha8": "e2e14855",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.84,
+      3.961,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e9ffa447",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.741,
+      1.772,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "2ab4e956",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.793,
+      2.869,
+      0.472,
+      0.472
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "143dde9e",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.837,
+      6.238,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "3ff006fd",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.062,
+      2.81,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "89bb21a3",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.772,
+      2.81,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "3115194f",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.441,
+      1.772,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4c242509",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      5.803,
+      5.081,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "e204db6f",
+   "px": [
+    824,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      1.964,
+      2.81,
+      0.608,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.03
+  },
+  {
+   "sha8": "d13162a0",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.36,
+      1.772,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9432ced3",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.93,
+      5.101,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "63286373",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.963,
+      6.238,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "83e0884c",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.982,
+      4.02,
+      0.472,
+      0.472
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "106b33bf",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.851,
+      2.849,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "9f41b44c",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      10.942,
+      1.792,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "fb687e1b",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.652,
+      6.199,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "c2545dd7",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      12.195,
+      6.199,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4df925e7",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.629,
+      5.081,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "4276c1e4",
+   "px": [
+    1000,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.696,
+      4.035,
+      0.551,
+      0.441
+     ]
+    ]
+   ],
+   "aspect": 1.25
+  },
+  {
+   "sha8": "e4fb63b0",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.601,
+      2.829,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "b9261072",
+   "px": [
+    1316,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.061,
+      2.913,
+      0.63,
+      0.383
+     ]
+    ]
+   ],
+   "aspect": 1.65
+  },
+  {
+   "sha8": "c9ff7e65",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      2.031,
+      1.753,
+      0.63,
+      0.63
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "ca8b35de",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      3.27,
+      3.98,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a5fe945e",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      9.731,
+      1.812,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "42d0dc74",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.069,
+      6.219,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "fe25afad",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.104,
+      5.121,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "cd51c255",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.327,
+      5.081,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "44117a5d",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.411,
+      3.98,
+      0.551,
+      0.551
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "08c1e8fa",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.341,
+      6.199,
+      0.591,
+      0.591
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "13dfd9da",
+   "px": [
+    800,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.165,
+      4.0,
+      0.512,
+      0.512
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "a369a974",
+   "px": [
+    848,
+    800
+   ],
+   "score": 0,
+   "evidence": [],
+   "slides": [
+    36
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      8.39,
+      2.863,
+      0.512,
+      0.483
+     ]
+    ]
+   ],
+   "aspect": 1.06
+  },
+  {
+   "sha8": "85e1c830",
+   "px": [
+    959,
+    836
+   ],
+   "score": -2,
+   "evidence": [
+    "on 2 slides",
+    "large figure"
+   ],
+   "slides": [
+    15,
+    23
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.565,
+      1.784,
+      5.664,
+      4.937
+     ]
+    ],
+    [
+     "slide",
+     [
+      0.887,
+      2.187,
+      4.178,
+      3.642
+     ]
+    ]
+   ],
+   "aspect": 1.15
+  },
+  {
+   "sha8": "76574d1d",
+   "px": [
+    1050,
+    714
+   ],
+   "score": -2,
+   "evidence": [
+    "on 2 slides",
+    "large figure"
+   ],
+   "slides": [
+    22,
+    24
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.884,
+      1.754,
+      5.274,
+      3.586
+     ]
+    ],
+    [
+     "slide",
+     [
+      7.618,
+      3.636,
+      5.065,
+      3.444
+     ]
+    ]
+   ],
+   "aspect": 1.47
+  },
+  {
+   "sha8": "c97c92c7",
+   "px": [
+    800,
+    800
+   ],
+   "score": -4,
+   "evidence": [
+    "large figure"
+   ],
+   "slides": [
+    8
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      11.071,
+      1.686,
+      4.128,
+      4.128
+     ]
+    ]
+   ],
+   "aspect": 1.0
+  },
+  {
+   "sha8": "8d39c76e",
+   "px": [
+    561,
+    744
+   ],
+   "score": -4,
+   "evidence": [
+    "large figure"
+   ],
+   "slides": [
+    12
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      0.677,
+      1.763,
+      3.723,
+      4.937
+     ]
+    ]
+   ],
+   "aspect": 0.75
+  },
+  {
+   "sha8": "94486f7d",
+   "px": [
+    1080,
+    1168
+   ],
+   "score": -4,
+   "evidence": [
+    "large figure"
+   ],
+   "slides": [
+    19
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      7.476,
+      1.579,
+      5.033,
+      5.443
+     ]
+    ]
+   ],
+   "aspect": 0.92
+  },
+  {
+   "sha8": "75d53eac",
+   "px": [
+    1879,
+    1297
+   ],
+   "score": -4,
+   "evidence": [
+    "large figure"
+   ],
+   "slides": [
+    23
+   ],
+   "layouts": [],
+   "boxes": [
+    [
+     "slide",
+     [
+      6.667,
+      2.188,
+      5.093,
+      3.515
+     ]
+    ]
+   ],
+   "aspect": 1.45
+  }
+ ],
+ "brand_candidates": [],
+ "name": "课堂pre01",
+ "use": "课堂 pre / 组会文献汇报 / 课堂讲解"
+}
