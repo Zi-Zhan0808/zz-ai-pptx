@@ -523,6 +523,8 @@ scripts/design_check.py   structural design lint (arrow/rule/count/orphan)
 references/authoring.md   layout, typography, figures, formulas, tables
 references/template.md    reading a template profile; slot maps; brand marks
 references/pitfalls.md   defects that already cost time, each with its check
+NOTICE.md                 third-party dependencies, prior art, how to verify
+scripts/provenance_check.py  line-by-line proof that no other skill's code is here
 references/prose.md       de-slopging with academic-specific guardrails
 references/workflows.md   worked patterns for 组会 / 论文精讲 / 综述 / 答辩
 assets/example_outline.md a filled-in outline to imitate

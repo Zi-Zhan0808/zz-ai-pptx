@@ -231,3 +231,23 @@ d = Deck(Theme.calm("sage"))                        # 旧名，仍可用
 | 页数 / 时长没说 | 按用途给默认值并说明假设 |
 
 四个省钱开关：**降档** · **先样张** · **不联网** · **砍页**（参考文献页、备页最先砍）。
+
+## 14. 出处与许可
+
+本技能原创，**MIT**。用到别人的什么、没用到什么，逐项写在 `NOTICE.md`：
+
+| 类别 | 内容 | 状态 |
+|---|---|---|
+| 运行依赖 | python-pptx（MIT）· **PyMuPDF（AGPL 双许可，注意）** · Pillow（MIT-CMU）· matplotlib · lxml | 由使用者自行安装 |
+| 外部程序 | LibreOffice（MPL-2.0） | 仅命令行调用，不打包 |
+| 环境内先行技能 | `pptx` / `docx` / `pdf` / `xlsx` / `theme-factory` 等（© 2025 Anthropic PBC） | **未复制任何代码或文本** |
+| 学校模板 | `课堂pre01/template.pptx` | 不分发（标为「待更新」） |
+| 字体 | 等线 / 微软雅黑 / Noto Sans CJK | 只按名称引用，不打包 |
+
+「未复制」不是一句声明，可以自己验：
+
+```bash
+python scripts/provenance_check.py --against ~/.dsh/skills
+```
+
+它把本技能每个实质行与其他技能的每一行逐条比对，只剩标准 import 与分隔线级别的巧合重合。

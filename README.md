@@ -55,6 +55,18 @@ git clone https://github.com/Zi-Zhan0808/zz-ai-pptx.git ~/.dsh/skills/zz-ai-pptx
 内置模板的启用方式：把任意 `.pptx` 放进 `assets/templates/课堂pre01/` 并命名
 `template.pptx`，或直接在模板模式（B2）下读你自己的模板。
 
+## 第三方与出处
+
+- 本仓库代码原创，**MIT** 许可
+- 依赖：python-pptx（MIT）、**PyMuPDF（AGPL 或商业双许可，请自行确认适用性）**、
+  Pillow（MIT-CMU）、matplotlib、lxml；LibreOffice 以外部命令形式调用（MPL-2.0）
+- 环境中由 Anthropic 提供的 `pptx` / `docx` / `pdf` / `xlsx` 等技能：
+  **未复制任何代码或文本**。可自行复核：
+  `python scripts/provenance_check.py --against <技能目录>`
+- 学校模板不分发
+
+逐项说明见 [`NOTICE.md`](NOTICE.md)。
+
 ---
 
 以下为技能自身的技术说明。
